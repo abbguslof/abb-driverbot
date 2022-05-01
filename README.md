@@ -20,15 +20,11 @@
 
 This is a school project. Where with the help of a MQTT, or a self written TCP protocol, controll and manouver a Lego Car equipped with a ESP 8266.
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 
 
 ### Built With
 
 * [Nuxt.js](https://nuxtjs.org/)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
@@ -46,15 +42,11 @@ This is a school project. Where with the help of a MQTT, or a self written TCP p
   npm run dev
   ```
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
 Let Arduino ESP8266 and a website Talk using a custom written TCP protocol.
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 <!-- CONTACT -->
@@ -63,9 +55,6 @@ Let Arduino ESP8266 and a website Talk using a custom written TCP protocol.
 Gustav Löfqvist - [@gustavlofqvist](https://twitter.com/gustavlofqvist) - gustav@lofqivst.ws
 
 Project Link: [https://github.com/abbguslof/driverbot](https://github.com/abbguslof/driverbot)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 
 
 <!-- ACKNOWLEDGMENTS -->
