@@ -25,6 +25,7 @@ This is a school project. Where with the help of a MQTT, or a self written TCP p
 ### Built With
 
 * [Nuxt.js](https://nuxtjs.org/)
+* [PlatformIO](https://platformio.org/)
 
 
 
