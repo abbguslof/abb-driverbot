@@ -38,11 +38,12 @@ This is a school project. Where with the help of a MQTT, or a self written TCP p
   git clone https://github.com/github_username/repo_name.git
   ```
 
-2. npm
+2. Start the website
   ```sh
   npm run dev
   ```
-
+  
+3. Upload arduino code to a ESP8266 using PlatformIO
 
 <!-- USAGE EXAMPLES -->
 ## Usage
