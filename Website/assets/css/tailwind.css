@@ -1,0 +1,17 @@
+/* purgecss start ignore */
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+/* purgecss end ignore */
+@import "tailwindcss/utilities";
+
+@font-face {
+  font-family: "PaletteMosaic";
+  font-weight: 700;
+  src: url("../fonts/PaletteMosaic-Regular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Smokum";
+  font-weight: 700;
+  src: url("../fonts/Smokum-Regular.ttf") format("truetype");
+}
